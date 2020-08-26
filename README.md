@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 Here is my information:
 - 🔭 I’m currently working on 3D reconstruction
