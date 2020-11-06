@@ -6,3 +6,4 @@ Here is my information:
 - 📫 My email address: zfb132@gmail.com
 - ⚡ [blog.whuzfb.cn](https://blog.whuzfb.cn/)
 
+![Fubin Zhang's github stats](https://github-readme-stats.vercel.app/api?username=zfb132)  
