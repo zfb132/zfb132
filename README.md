@@ -1,5 +1,3 @@
-### Hi there
-
 Here is my information:
 - 🔭 I’m currently working on 3D reconstruction
 - 🌱 I’m currently learning CGAL and PCL
