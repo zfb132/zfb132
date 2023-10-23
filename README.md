@@ -16,4 +16,7 @@ Here is my information:
   </p>
 </details>
 
-<a href="https://github.com/zfb132">![Fubin Zhang's github stats](https://github-readme-stats.zfb132.vercel.app/api?username=zfb132)</a>  
+<p align="left">
+  <a href="https://github.com/zfb132"><img width="460" src="https://github-readme-stats.zfb132.vercel.app/api?username=zfb132" alt="Fubin Zhang's Github Stats"></a>
+  <a href="https://github.com/zfb132"><img width="384" src="https://github-readme-stats.zfb132.vercel.app/api/top-langs/?username=zfb132&layout=compact&langs_count=6" alt="Fubin Zhang's Top Langs"></a>
+</p>
